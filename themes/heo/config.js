@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '知识分享',
   HEO_HERO_TITLE_2: '小喇叭',
   HEO_HERO_TITLE_3: 'Ahuan',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'Ahuan的全部资源',
-  HEO_HERO_TITLE_LINK: 'https://iceahuan.de5.net/',
+  HEO_HERO_TITLE_4: '平安 喜乐',
+  HEO_HERO_TITLE_5: '更多了解我',
+  HEO_HERO_TITLE_LINK: 'https://iceahuan.de5.net/tag/%E7%AE%80%E5%8E%86%E4%B8%93%E9%A2%98',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
