@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://iceahuan.de5.net/' },
+    { title: '欢迎来到我的博客', url: 'https://blog.jayhugh.cn' },
     { title: '数据中心', url: 'http://zkevinh.ysepan.com/' }
   ],
 
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'Ahuan',
   HEO_HERO_TITLE_4: '平安 喜乐',
   HEO_HERO_TITLE_5: '>>更多了解我<<',
-  HEO_HERO_TITLE_LINK: 'https://iceahuan.de5.net/hi',
+  HEO_HERO_TITLE_LINK: 'https://blog.jayhugh.cn/hi',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://iceahuan.de5.net',
+  HEO_INFO_CARD_URL2: 'https://blog.jayhugh.cn',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://iceahuan.de5.net',
+  HEO_INFO_CARD_URL3: 'https://blog.jayhugh.cn',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
